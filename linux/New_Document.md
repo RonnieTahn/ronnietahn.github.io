@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 nav_order: 4
+parent: Linux
 ---
 
 # Welcome
