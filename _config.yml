@@ -2,6 +2,7 @@ title: Little Wiki
 
 url: "https://ronnietahn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: rundocs/jekyll-rtd-theme
+#remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: just-the-docs/just-the-docs
 #plugins:
 #  - jekyll-feed
