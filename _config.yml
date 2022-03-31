@@ -1,7 +1,7 @@
-title: Your awesome title
+title: Little Wiki
 
 url: "https://ronnietahn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: just-the-docs/just-the-docs
+remote_theme: rundocs/jekyll-rtd-theme
 #plugins:
 #  - jekyll-feed
