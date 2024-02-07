@@ -7,9 +7,9 @@ url: "https://ronnietahn.github.io" # the base hostname & protocol for your site
 remote_theme: ngzhio/jekyll-theme-hamilton
 
 author: Дмитрий Волчков
-#avatar
+avatar: rockonstage.jpg
 #email:
-#location:
+location: Moscow, Russia
 skin: midnight
 lang: ru
 
