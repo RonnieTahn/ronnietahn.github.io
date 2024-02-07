@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Linux"
-nav_order: 3
+title:  "Useful Notes"
+nav_order: 2
 has_children: true
 ---
 
